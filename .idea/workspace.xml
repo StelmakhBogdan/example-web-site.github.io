@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2eb52f3f-2dbe-4d20-b372-4aee7f301a4b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/react-site/src/components/app/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-site/src/components/app/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-site/src/components/app/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-site/src/components/carousel-box/carousel-box.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-site/src/components/carousel-box/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-site/src/components/header/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-site/src/components/header/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-site/src/components/header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-site/src/pages/about/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-site/src/pages/about/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-site/src/pages/blog/blog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-site/src/pages/blog/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-site/src/pages/contacts/contacts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-site/src/pages/contacts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-site/src/pages/home/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-site/src/pages/home/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react-site/src/pages/home/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-site/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/react-site/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-site/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/react-site/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-site/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-site/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-site/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-site/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-site/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-site/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-site/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-site/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-site/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react-site/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-site/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-site/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react-site/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/react-site" />
+  </component>
+  <component name="ProjectId" id="1bcSylUmntjLp8EnHmcu4Ihyrpq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\web-developer\js\React-and-Redux\React\web-site\react-site\src\pages\about" />
+      <recent name="D:\web-developer\js\React-and-Redux\React\web-site\react-site\src\pages" />
+      <recent name="D:\web-developer\js\React-and-Redux\React\web-site\react-site\src\pages\blog" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2eb52f3f-2dbe-4d20-b372-4aee7f301a4b" name="Default Changelist" comment="" />
+      <created>1588930147323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588930147323</updated>
+      <workItem from="1588930159806" duration="4378000" />
+      <workItem from="1588936003817" duration="11670000" />
+      <workItem from="1589004353829" duration="10793000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
